@@ -1,0 +1,97 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.raywenderlich.android.memo"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->C:\Users\jruss\AndroidStudioProjects\MemApp\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->C:\Users\jruss\AndroidStudioProjects\MemApp\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+11-->C:\Users\jruss\AndroidStudioProjects\MemApp\app\src\main\AndroidManifest.xml:6:3-75
+11-->C:\Users\jruss\AndroidStudioProjects\MemApp\app\src\main\AndroidManifest.xml:6:20-72
+12    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+12-->C:\Users\jruss\AndroidStudioProjects\MemApp\app\src\main\AndroidManifest.xml:8:3-79
+12-->C:\Users\jruss\AndroidStudioProjects\MemApp\app\src\main\AndroidManifest.xml:8:20-76
+13
+14    <application
+14-->C:\Users\jruss\AndroidStudioProjects\MemApp\app\src\main\AndroidManifest.xml:11:3-50:17
+15        android:allowBackup="false"
+15-->C:\Users\jruss\AndroidStudioProjects\MemApp\app\src\main\AndroidManifest.xml:12:5-32
+16        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+16-->[androidx.core:core:1.3.1] C:\Users\jruss\.gradle\caches\transforms-3\491e3f720984d24422106071bd794c92\transformed\core-1.3.1\AndroidManifest.xml:24:18-86
+17        android:debuggable="true"
+18        android:icon="@mipmap/ic_launcher"
+18-->C:\Users\jruss\AndroidStudioProjects\MemApp\app\src\main\AndroidManifest.xml:13:5-39
+19        android:label="@string/app_name"
+19-->C:\Users\jruss\AndroidStudioProjects\MemApp\app\src\main\AndroidManifest.xml:14:5-37
+20        android:roundIcon="@mipmap/ic_launcher_round"
+20-->C:\Users\jruss\AndroidStudioProjects\MemApp\app\src\main\AndroidManifest.xml:15:5-50
+21        android:supportsRtl="true"
+21-->C:\Users\jruss\AndroidStudioProjects\MemApp\app\src\main\AndroidManifest.xml:16:5-31
+22        android:testOnly="true"
+23        android:theme="@style/AppTheme" >
+23-->C:\Users\jruss\AndroidStudioProjects\MemApp\app\src\main\AndroidManifest.xml:17:5-36
+24
+25        <!-- Main Activity -->
+26        <activity
+26-->C:\Users\jruss\AndroidStudioProjects\MemApp\app\src\main\AndroidManifest.xml:21:5-29:16
+27            android:name="com.raywenderlich.android.memo.ui.MainActivity"
+27-->C:\Users\jruss\AndroidStudioProjects\MemApp\app\src\main\AndroidManifest.xml:22:7-38
+28            android:launchMode="singleTask"
+28-->C:\Users\jruss\AndroidStudioProjects\MemApp\app\src\main\AndroidManifest.xml:23:7-38
+29            android:theme="@style/SplashTheme" >
+29-->C:\Users\jruss\AndroidStudioProjects\MemApp\app\src\main\AndroidManifest.xml:24:7-41
+30            <intent-filter>
+30-->C:\Users\jruss\AndroidStudioProjects\MemApp\app\src\main\AndroidManifest.xml:25:7-28:23
+31                <action android:name="android.intent.action.MAIN" />
+31-->C:\Users\jruss\AndroidStudioProjects\MemApp\app\src\main\AndroidManifest.xml:26:9-61
+31-->C:\Users\jruss\AndroidStudioProjects\MemApp\app\src\main\AndroidManifest.xml:26:17-58
+32
+33                <category android:name="android.intent.category.LAUNCHER" />
+33-->C:\Users\jruss\AndroidStudioProjects\MemApp\app\src\main\AndroidManifest.xml:27:9-69
+33-->C:\Users\jruss\AndroidStudioProjects\MemApp\app\src\main\AndroidManifest.xml:27:19-66
+34            </intent-filter>
+35        </activity>
+36
+37        <receiver
+37-->C:\Users\jruss\AndroidStudioProjects\MemApp\app\src\main\AndroidManifest.xml:31:5-39:16
+38            android:name="com.raywenderlich.android.memo.ui.MainActivity$TimerReceiver"
+38-->C:\Users\jruss\AndroidStudioProjects\MemApp\app\src\main\AndroidManifest.xml:32:7-52
+39            android:enabled="true"
+39-->C:\Users\jruss\AndroidStudioProjects\MemApp\app\src\main\AndroidManifest.xml:33:7-29
+40            android:exported="true" >
+40-->C:\Users\jruss\AndroidStudioProjects\MemApp\app\src\main\AndroidManifest.xml:34:7-30
+41            <intent-filter>
+41-->C:\Users\jruss\AndroidStudioProjects\MemApp\app\src\main\AndroidManifest.xml:35:7-38:23
+42                <action android:name="android.intent.action.BOOT_COMPLETED" />
+42-->C:\Users\jruss\AndroidStudioProjects\MemApp\app\src\main\AndroidManifest.xml:36:9-71
+42-->C:\Users\jruss\AndroidStudioProjects\MemApp\app\src\main\AndroidManifest.xml:36:17-68
+43                <action android:name="android.intent.action.INPUT_METHOD_CHANGED" />
+43-->C:\Users\jruss\AndroidStudioProjects\MemApp\app\src\main\AndroidManifest.xml:37:9-77
+43-->C:\Users\jruss\AndroidStudioProjects\MemApp\app\src\main\AndroidManifest.xml:37:17-74
+44            </intent-filter>
+45        </receiver>
+46
+47        <service
+47-->C:\Users\jruss\AndroidStudioProjects\MemApp\app\src\main\AndroidManifest.xml:41:5-44:34
+48            android:name="com.raywenderlich.android.memo.services.TimerService"
+48-->C:\Users\jruss\AndroidStudioProjects\MemApp\app\src\main\AndroidManifest.xml:42:7-44
+49            android:enabled="true"
+49-->C:\Users\jruss\AndroidStudioProjects\MemApp\app\src\main\AndroidManifest.xml:43:7-29
+50            android:exported="false" />
+50-->C:\Users\jruss\AndroidStudioProjects\MemApp\app\src\main\AndroidManifest.xml:44:7-31
+51        <service
+51-->C:\Users\jruss\AndroidStudioProjects\MemApp\app\src\main\AndroidManifest.xml:46:5-49:34
+52            android:name="com.raywenderlich.android.memo.services.MusicService"
+52-->C:\Users\jruss\AndroidStudioProjects\MemApp\app\src\main\AndroidManifest.xml:47:7-44
+53            android:enabled="true"
+53-->C:\Users\jruss\AndroidStudioProjects\MemApp\app\src\main\AndroidManifest.xml:48:7-29
+54            android:exported="false" />
+54-->C:\Users\jruss\AndroidStudioProjects\MemApp\app\src\main\AndroidManifest.xml:49:7-31
+55    </application>
+56
+57</manifest>

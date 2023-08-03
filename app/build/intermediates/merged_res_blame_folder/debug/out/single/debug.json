@@ -1,0 +1,246 @@
+[
+    {
+        "merged": "com.raywenderlich.android.memo.app-merged_res-11:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.raywenderlich.android.memo.app-main-13:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.raywenderlich.android.memo.app-merged_res-11:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.raywenderlich.android.memo.app-main-13:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.raywenderlich.android.memo.app-merged_res-11:/drawable_ic_tie_fighter.xml.flat",
+        "source": "com.raywenderlich.android.memo.app-main-13:/drawable/ic_tie_fighter.xml"
+    },
+    {
+        "merged": "com.raywenderlich.android.memo.app-merged_res-11:/drawable-xxxhdpi_ic_card_back.png.flat",
+        "source": "com.raywenderlich.android.memo.app-main-13:/drawable-xxxhdpi/ic_card_back.png"
+    },
+    {
+        "merged": "com.raywenderlich.android.memo.app-merged_res-11:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.raywenderlich.android.memo.app-main-13:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.raywenderlich.android.memo.app-merged_res-11:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.raywenderlich.android.memo.app-main-13:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.raywenderlich.android.memo.app-merged_res-11:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.raywenderlich.android.memo.app-main-13:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.raywenderlich.android.memo.app-merged_res-11:/drawable-hdpi_ic_stop_gray.png.flat",
+        "source": "com.raywenderlich.android.memo.app-pngs-6:/drawable-hdpi/ic_stop_gray.png"
+    },
+    {
+        "merged": "com.raywenderlich.android.memo.app-merged_res-11:/raw_driving_ambition.mp3.flat",
+        "source": "com.raywenderlich.android.memo.app-main-13:/raw/driving_ambition.mp3"
+    },
+    {
+        "merged": "com.raywenderlich.android.memo.app-merged_res-11:/drawable_ic_pause_gray.xml.flat",
+        "source": "com.raywenderlich.android.memo.app-main-13:/drawable/ic_pause_gray.xml"
+    },
+    {
+        "merged": "com.raywenderlich.android.memo.app-merged_res-11:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.raywenderlich.android.memo.app-main-13:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.raywenderlich.android.memo.app-merged_res-11:/drawable-hdpi_ic_stop.png.flat",
+        "source": "com.raywenderlich.android.memo.app-pngs-6:/drawable-hdpi/ic_stop.png"
+    },
+    {
+        "merged": "com.raywenderlich.android.memo.app-merged_res-11:/drawable-mdpi_ic_stop.png.flat",
+        "source": "com.raywenderlich.android.memo.app-pngs-6:/drawable-mdpi/ic_stop.png"
+    },
+    {
+        "merged": "com.raywenderlich.android.memo.app-merged_res-11:/drawable-xxhdpi_ic_stop_gray.png.flat",
+        "source": "com.raywenderlich.android.memo.app-pngs-6:/drawable-xxhdpi/ic_stop_gray.png"
+    },
+    {
+        "merged": "com.raywenderlich.android.memo.app-merged_res-11:/drawable_ic_play.xml.flat",
+        "source": "com.raywenderlich.android.memo.app-main-13:/drawable/ic_play.xml"
+    },
+    {
+        "merged": "com.raywenderlich.android.memo.app-merged_res-11:/drawable-xhdpi_ic_card_back.png.flat",
+        "source": "com.raywenderlich.android.memo.app-main-13:/drawable-xhdpi/ic_card_back.png"
+    },
+    {
+        "merged": "com.raywenderlich.android.memo.app-merged_res-11:/drawable-ldpi_ic_stop.png.flat",
+        "source": "com.raywenderlich.android.memo.app-pngs-6:/drawable-ldpi/ic_stop.png"
+    },
+    {
+        "merged": "com.raywenderlich.android.memo.app-merged_res-11:/drawable_ic_bb.xml.flat",
+        "source": "com.raywenderlich.android.memo.app-main-13:/drawable/ic_bb.xml"
+    },
+    {
+        "merged": "com.raywenderlich.android.memo.app-merged_res-11:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.raywenderlich.android.memo.app-main-13:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.raywenderlich.android.memo.app-merged_res-11:/drawable_background_btn_play.xml.flat",
+        "source": "com.raywenderlich.android.memo.app-main-13:/drawable/background_btn_play.xml"
+    },
+    {
+        "merged": "com.raywenderlich.android.memo.app-merged_res-11:/drawable_ic_stormtropper.xml.flat",
+        "source": "com.raywenderlich.android.memo.app-main-13:/drawable/ic_stormtropper.xml"
+    },
+    {
+        "merged": "com.raywenderlich.android.memo.app-merged_res-11:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.raywenderlich.android.memo.app-main-13:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.raywenderlich.android.memo.app-merged_res-11:/drawable_ic_card_background.xml.flat",
+        "source": "com.raywenderlich.android.memo.app-main-13:/drawable/ic_card_background.xml"
+    },
+    {
+        "merged": "com.raywenderlich.android.memo.app-merged_res-11:/drawable_background_btn_pause.xml.flat",
+        "source": "com.raywenderlich.android.memo.app-main-13:/drawable/background_btn_pause.xml"
+    },
+    {
+        "merged": "com.raywenderlich.android.memo.app-merged_res-11:/drawable_ic_shuffle_gray.xml.flat",
+        "source": "com.raywenderlich.android.memo.app-main-13:/drawable/ic_shuffle_gray.xml"
+    },
+    {
+        "merged": "com.raywenderlich.android.memo.app-merged_res-11:/drawable-anydpi-v24_ic_stop_gray.xml.flat",
+        "source": "com.raywenderlich.android.memo.app-pngs-6:/drawable-anydpi-v24/ic_stop_gray.xml"
+    },
+    {
+        "merged": "com.raywenderlich.android.memo.app-merged_res-11:/drawable-mdpi_ic_card_back.png.flat",
+        "source": "com.raywenderlich.android.memo.app-main-13:/drawable-mdpi/ic_card_back.png"
+    },
+    {
+        "merged": "com.raywenderlich.android.memo.app-merged_res-11:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.raywenderlich.android.memo.app-main-13:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.raywenderlich.android.memo.app-merged_res-11:/drawable-xhdpi_ic_stop.png.flat",
+        "source": "com.raywenderlich.android.memo.app-pngs-6:/drawable-xhdpi/ic_stop.png"
+    },
+    {
+        "merged": "com.raywenderlich.android.memo.app-merged_res-11:/drawable-xxxhdpi_ic_stop_gray.png.flat",
+        "source": "com.raywenderlich.android.memo.app-pngs-6:/drawable-xxxhdpi/ic_stop_gray.png"
+    },
+    {
+        "merged": "com.raywenderlich.android.memo.app-merged_res-11:/drawable_ic_quit.xml.flat",
+        "source": "com.raywenderlich.android.memo.app-main-13:/drawable/ic_quit.xml"
+    },
+    {
+        "merged": "com.raywenderlich.android.memo.app-merged_res-11:/layout_layout_icon.xml.flat",
+        "source": "com.raywenderlich.android.memo.app-main-13:/layout/layout_icon.xml"
+    },
+    {
+        "merged": "com.raywenderlich.android.memo.app-merged_res-11:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.raywenderlich.android.memo.app-main-13:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.raywenderlich.android.memo.app-merged_res-11:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.raywenderlich.android.memo.app-main-13:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.raywenderlich.android.memo.app-merged_res-11:/drawable_ic_rd.xml.flat",
+        "source": "com.raywenderlich.android.memo.app-main-13:/drawable/ic_rd.xml"
+    },
+    {
+        "merged": "com.raywenderlich.android.memo.app-merged_res-11:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.raywenderlich.android.memo.app-pngs-6:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.raywenderlich.android.memo.app-merged_res-11:/drawable_ic_pause.xml.flat",
+        "source": "com.raywenderlich.android.memo.app-main-13:/drawable/ic_pause.xml"
+    },
+    {
+        "merged": "com.raywenderlich.android.memo.app-merged_res-11:/drawable-xxhdpi_ic_card_back.png.flat",
+        "source": "com.raywenderlich.android.memo.app-main-13:/drawable-xxhdpi/ic_card_back.png"
+    },
+    {
+        "merged": "com.raywenderlich.android.memo.app-merged_res-11:/drawable-hdpi_ic_card_back.png.flat",
+        "source": "com.raywenderlich.android.memo.app-main-13:/drawable-hdpi/ic_card_back.png"
+    },
+    {
+        "merged": "com.raywenderlich.android.memo.app-merged_res-11:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.raywenderlich.android.memo.app-main-13:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.raywenderlich.android.memo.app-merged_res-11:/drawable_splash_background.xml.flat",
+        "source": "com.raywenderlich.android.memo.app-main-13:/drawable/splash_background.xml"
+    },
+    {
+        "merged": "com.raywenderlich.android.memo.app-merged_res-11:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.raywenderlich.android.memo.app-main-13:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.raywenderlich.android.memo.app-merged_res-11:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.raywenderlich.android.memo.app-main-13:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.raywenderlich.android.memo.app-merged_res-11:/drawable-xxhdpi_ic_stop.png.flat",
+        "source": "com.raywenderlich.android.memo.app-pngs-6:/drawable-xxhdpi/ic_stop.png"
+    },
+    {
+        "merged": "com.raywenderlich.android.memo.app-merged_res-11:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.raywenderlich.android.memo.app-main-13:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.raywenderlich.android.memo.app-merged_res-11:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.raywenderlich.android.memo.app-main-13:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.raywenderlich.android.memo.app-merged_res-11:/drawable_ic_darth_maul.xml.flat",
+        "source": "com.raywenderlich.android.memo.app-main-13:/drawable/ic_darth_maul.xml"
+    },
+    {
+        "merged": "com.raywenderlich.android.memo.app-merged_res-11:/drawable-ldpi_ic_stop_gray.png.flat",
+        "source": "com.raywenderlich.android.memo.app-pngs-6:/drawable-ldpi/ic_stop_gray.png"
+    },
+    {
+        "merged": "com.raywenderlich.android.memo.app-merged_res-11:/layout_activity_main.xml.flat",
+        "source": "com.raywenderlich.android.memo.app-main-13:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.raywenderlich.android.memo.app-merged_res-11:/drawable_ic_shuffle.xml.flat",
+        "source": "com.raywenderlich.android.memo.app-main-13:/drawable/ic_shuffle.xml"
+    },
+    {
+        "merged": "com.raywenderlich.android.memo.app-merged_res-11:/drawable_ic_chew.xml.flat",
+        "source": "com.raywenderlich.android.memo.app-main-13:/drawable/ic_chew.xml"
+    },
+    {
+        "merged": "com.raywenderlich.android.memo.app-merged_res-11:/drawable-xhdpi_ic_stop_gray.png.flat",
+        "source": "com.raywenderlich.android.memo.app-pngs-6:/drawable-xhdpi/ic_stop_gray.png"
+    },
+    {
+        "merged": "com.raywenderlich.android.memo.app-merged_res-11:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.raywenderlich.android.memo.app-main-13:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.raywenderlich.android.memo.app-merged_res-11:/drawable_background_btn_shuffle.xml.flat",
+        "source": "com.raywenderlich.android.memo.app-main-13:/drawable/background_btn_shuffle.xml"
+    },
+    {
+        "merged": "com.raywenderlich.android.memo.app-merged_res-11:/raw_beautiful_dream.mp3.flat",
+        "source": "com.raywenderlich.android.memo.app-main-13:/raw/beautiful_dream.mp3"
+    },
+    {
+        "merged": "com.raywenderlich.android.memo.app-merged_res-11:/drawable_background_btn_stop.xml.flat",
+        "source": "com.raywenderlich.android.memo.app-main-13:/drawable/background_btn_stop.xml"
+    },
+    {
+        "merged": "com.raywenderlich.android.memo.app-merged_res-11:/drawable-xxxhdpi_ic_stop.png.flat",
+        "source": "com.raywenderlich.android.memo.app-pngs-6:/drawable-xxxhdpi/ic_stop.png"
+    },
+    {
+        "merged": "com.raywenderlich.android.memo.app-merged_res-11:/drawable_ic_combo.xml.flat",
+        "source": "com.raywenderlich.android.memo.app-main-13:/drawable/ic_combo.xml"
+    },
+    {
+        "merged": "com.raywenderlich.android.memo.app-merged_res-11:/drawable-anydpi-v24_ic_stop.xml.flat",
+        "source": "com.raywenderlich.android.memo.app-pngs-6:/drawable-anydpi-v24/ic_stop.xml"
+    },
+    {
+        "merged": "com.raywenderlich.android.memo.app-merged_res-11:/drawable-mdpi_ic_stop_gray.png.flat",
+        "source": "com.raywenderlich.android.memo.app-pngs-6:/drawable-mdpi/ic_stop_gray.png"
+    },
+    {
+        "merged": "com.raywenderlich.android.memo.app-merged_res-11:/drawable_ic_play_gray.xml.flat",
+        "source": "com.raywenderlich.android.memo.app-main-13:/drawable/ic_play_gray.xml"
+    }
+]

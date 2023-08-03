@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.raywenderlich.android.memo.app-mergeDebugResources-10:/layout/activity_main.xml",
+        "source": "com.raywenderlich.android.memo.app-main-13:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.raywenderlich.android.memo.app-mergeDebugResources-10:/layout/layout_icon.xml",
+        "source": "com.raywenderlich.android.memo.app-main-13:/layout/layout_icon.xml"
+    }
+]
